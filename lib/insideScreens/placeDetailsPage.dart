@@ -66,7 +66,6 @@ class PlaceDetailsPage extends StatelessWidget {
               ],
             ),
             const SizedBox(height: 16),
-            // Add more details about the place here
             Text(
               place['description'],
               style: const TextStyle(

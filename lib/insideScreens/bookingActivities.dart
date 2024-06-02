@@ -1,4 +1,3 @@
-// booking_activities.dart
 import 'package:flutter/material.dart';
 
 class BookingActivities extends StatelessWidget {
@@ -60,7 +59,7 @@ class BookingActivities extends StatelessWidget {
                 ),
               ),
               onChanged: (value) {
-                // Add search functionality here if needed
+
               },
             ),
           ),

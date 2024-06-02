@@ -1,5 +1,3 @@
-// booking_model.dart
-
 class Booking {
   final String name;
   final String location;

@@ -1,4 +1,4 @@
-// cart_model.dart
+
 import 'package:assignment_1/models/booking_model.dart';
 import 'package:assignment_1/models/hotels_model.dart';
 
